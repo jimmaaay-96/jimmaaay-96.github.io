@@ -34,7 +34,7 @@
 			
             <div >
 						    <div class="topnav">
-  <a class="active" href="landing.html">Home</a>
+  <a class="active" href="index.html">Home</a>
   <a href="contact.html">Contact</a>
   
  

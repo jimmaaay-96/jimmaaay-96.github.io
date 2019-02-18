@@ -17,11 +17,11 @@
 			
             <div >
 						    <div class="topnav">
-  <a class="active" href="landing.html">Back</a>
+  <a class="active" href="index.html">Back</a>
   <a href="contact.html">Contact</a>
   
   
-  <a   href="landing.html"> Home </a>
+  <a   href="index.html"> Home </a>
 </div>
                         
                         
